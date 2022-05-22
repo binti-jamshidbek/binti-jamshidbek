@@ -1,4 +1,6 @@
-### Hi there 👋
+## Assalomu alaykum 🙂
+### Welcome to my Github profile !
+
 
 <!--
 **binti-jamshidbek/binti-jamshidbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
